@@ -36,4 +36,3 @@ function switchAge(age) {
        Return "You have an age"
        }
      }
-    
